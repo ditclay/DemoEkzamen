@@ -17,7 +17,11 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 20 баллов - 4</br>
 30 баллов - 5</br>
 
-# Visual Studio
+# Описание ПО на флешке
 ![image](https://github.com/ditclay/DemoEkzamen/assets/59621706/f2faba84-fe4d-4a8d-9a62-b7be70d4bc0f)
 
+# Visual Studio
+![image](https://github.com/ditclay/DemoEkzamen/assets/59621706/01cc6e4c-b6d0-42fc-892e-9ae2d2d8becf)f
+
 # SSMS
+
