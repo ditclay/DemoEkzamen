@@ -23,5 +23,10 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 # Visual Studio
 ![image](https://github.com/ditclay/DemoEkzamen/assets/59621706/01cc6e4c-b6d0-42fc-892e-9ae2d2d8becf)f
 
-# SSMS
+# SSMS и SQL
+![image](https://github.com/ditclay/DemoEkzamen/assets/59621706/c9d5cc9d-b3f6-4855-80de-0df80d7a1e77)
+
+![image](https://github.com/ditclay/DemoEkzamen/assets/59621706/2a58bd70-8fea-4e59-8d25-a21b982e1cd7)
+
+
 
