@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T11:29:09.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.971 Yowser/2.5 Safari/537.36" etag="x-QUyXUMlqYAweyRnaNu" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T11:32:14.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.4.971 Yowser/2.5 Safari/537.36" etag="Or8C_QDcOALRaDWxun58" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="oDiCtgSkFk4E8elgEKD5">
-    <mxGraphModel dx="2310" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,11 @@
           <mxGeometry x="75" y="280" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="omgXe2g3dsfElKqKCzuu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="omgXe2g3dsfElKqKCzuu-7" target="omgXe2g3dsfElKqKCzuu-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="omgXe2g3dsfElKqKCzuu-11" value="Есть упражнения для выполнения&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="omgXe2g3dsfElKqKCzuu-10">
           <mxGeometry x="-0.3692" y="-1" relative="1" as="geometry">
