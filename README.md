@@ -1,3 +1,5 @@
+![image](https://github.com/ditclay/DemoEkzamen/assets/59621706/806f456f-0da5-46f9-9fd5-7b7973535e79)
+
 # 1. ЧТО С МЕСТОМ ПРАКТИКИ?
 # 2. ВЫХОДИ ИЗ GITA
 
